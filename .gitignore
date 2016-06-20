@@ -1,0 +1,6 @@
+/packages
+/.vs
+bin/
+/LuceneTest/LuceneIndex/
+/LuceneTest/obj
+/LuceneTest/LuceneTest.csproj.user
